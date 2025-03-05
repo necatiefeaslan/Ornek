@@ -631,3 +631,4 @@ C:\Users\Necati Efe Aslan\Desktop\MVC\Ornek-ev\Ornek\obj\Debug\net9.0\refint\Orn
 C:\Users\Necati Efe Aslan\Desktop\MVC\Ornek-ev\Ornek\obj\Debug\net9.0\Ornek.pdb
 C:\Users\Necati Efe Aslan\Desktop\MVC\Ornek-ev\Ornek\obj\Debug\net9.0\Ornek.genruntimeconfig.cache
 C:\Users\Necati Efe Aslan\Desktop\MVC\Ornek-ev\Ornek\obj\Debug\net9.0\ref\Ornek.dll
+C:\Users\Necati Efe Aslan\Desktop\MVC\Ornek-ev\Ornek\obj\Debug\net9.0\Ornek.sourcelink.json
